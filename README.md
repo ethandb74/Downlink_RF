@@ -38,6 +38,14 @@ PCB
 
 <img width="1110" height="646" alt="Screenshot 2026-05-01 164421" src="https://github.com/user-attachments/assets/1400858f-ea73-4ae5-ba33-98dcc7a3e9aa" />
 
+Kepp in mind the photo above is before some final iterations This is a 3d model of the Finished PCB:
+<img width="1468" height="832" alt="Screenshot 2026-05-02 165047" src="https://github.com/user-attachments/assets/4793b8dc-8ff6-426b-81df-c84f4176b279" />
+
+BOM:
+
+
+
+
 
 
 
