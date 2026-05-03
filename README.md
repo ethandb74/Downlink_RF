@@ -42,8 +42,8 @@ Kepp in mind the photo above is before some final iterations This is a 3d model 
 <img width="1468" height="832" alt="Screenshot 2026-05-02 165047" src="https://github.com/user-attachments/assets/4793b8dc-8ff6-426b-81df-c84f4176b279" />
 
 BOM:
-
-
+Attached is a link to the BOM with the individual Componants for the PCB
+[Bom Link](BOM/Downlink_RF.csv)
 
 
 
